@@ -34,7 +34,7 @@ after succesfull identification of the pot, Ultrasonic sensors come into play by
 and using the algorithium (below in software section) we can accuratelly determine the direction of rotation.  
 
 # Software
-
+![image](https://user-images.githubusercontent.com/71347979/153729930-09481bc2-5be0-448d-a6b1-eac0ada03f6b.png)
 **To determine the direction of rotation...**
 
 So the algorithium is desgined in such a manner that whenever the color sensor detects color of the pot.
@@ -52,3 +52,4 @@ It again compares d1 and d2 and after comparing if d1>d2 then it outputs anticlo
 The Left ultrasonic(1) calculate the distance by the formula -> (duration X (0.034/2)). After succesfull determination of the distance we'll move to calulating the angle of the rotation.
 we can use the formala-> a*tan*(l/base) *where* base= 750 and l= distance-5750.
 we'll get the output as pi/2-angle.
+
