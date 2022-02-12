@@ -56,3 +56,14 @@ we can use the formala-> a*tan*(l/base) *where* base= 750 and l= distance-5750.
 we'll get the output as pi/2-angle.
 #
 ![image](https://user-images.githubusercontent.com/71347979/153729933-3c7552d9-4c70-4e69-8da3-b1322f391693.png)
+
+
+## Contributing
+
+Prakhar Ganeriwal
+
+Archisman Basu
+
+Ashtuoh 
+
+Poonguzhali
