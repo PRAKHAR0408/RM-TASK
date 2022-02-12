@@ -52,4 +52,4 @@ It again compares d1 and d2 and after comparing if d1>d2 then it outputs anticlo
 The Left ultrasonic(1) calculate the distance by the formula -> (duration X (0.034/2)). After succesfull determination of the distance we'll move to calulating the angle of the rotation.
 we can use the formala-> a*tan*(l/base) *where* base= 750 and l= distance-5750.
 we'll get the output as pi/2-angle.
-
+![image](https://user-images.githubusercontent.com/71347979/153729933-3c7552d9-4c70-4e69-8da3-b1322f391693.png)
