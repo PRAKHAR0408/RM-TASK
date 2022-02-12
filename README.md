@@ -33,6 +33,8 @@ First the color sensor detects which pot is placed in front of it.
 after succesfull identification of the pot, Ultrasonic sensors come into play by determining the which which side of table is coming closer to the observer and which side is going away(refer the figure below),
 and using the algorithium (below in software section) we can accuratelly determine the direction of rotation.  
 
+![image](https://user-images.githubusercontent.com/71347979/153729943-f752cd60-5f33-4067-b363-bbe38188562c.png)
+
 # Software
 ![image](https://user-images.githubusercontent.com/71347979/153729930-09481bc2-5be0-448d-a6b1-eac0ada03f6b.png)
 **To determine the direction of rotation...**
