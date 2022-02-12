@@ -11,6 +11,7 @@ TABLE: 1500X500 unit^2
 
 The pots are symmetrically aligned on the table.
 Observer is at a perpendicular distance of 6000 units from the geometric center of the table.
+![image](https://user-images.githubusercontent.com/71347979/153730401-bd65e8ae-84fa-4a77-a317-f7e5bf1f1dba.png)
 
 # 
 # Solution
