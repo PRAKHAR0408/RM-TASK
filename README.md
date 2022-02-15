@@ -63,9 +63,3 @@ we'll get the output as pi/2-angle.
 ## Contributing
 
 Prakhar Ganeriwal
-
-Archisman Basu
-
-Ashtuoh 
-
-Poonguzhali
